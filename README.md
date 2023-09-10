@@ -1,6 +1,4 @@
-| :memo:        | The repository was moved [**here**](https://github.com/xfold/the-ai-jungle/tree/gh-pages/statistical_distribution_analyzer/). 
-Also, take a look at the [**AI-jungle**](https://xfold.github.io/the-ai-jungle/) projects.
-       |
+| :memo:        | The repository was moved [**here**](https://github.com/xfold/the-ai-jungle/tree/gh-pages/statistical_distribution_analyzer/). |
 |---------------|:------------------------|
 
 
